@@ -25,7 +25,7 @@
 
 
      <code>
-          - filter__grid
+          - filter grid
           
           <div class="row filter__grid">
                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 grid__thumb" data-status="A"> </div>

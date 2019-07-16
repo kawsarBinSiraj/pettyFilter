@@ -1,6 +1,7 @@
 ## pettyFilter 
 ### this library dependent on jquery
 ## Usage example:
+
 <code> 
     <pre>
          pettyFilter({
@@ -9,7 +10,5 @@
             filterGridItem  : '.grid__thumb', // gird item which is your filter item
             filterGridRow   : '.filter__grid' // gird row which is the parrent of  filter item or grid item
         });
-        
-        //...
     </pre>
 </code>

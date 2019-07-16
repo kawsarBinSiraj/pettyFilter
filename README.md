@@ -13,17 +13,17 @@
 </pre>
 
 
+
 <pre>
      - filter-options
-     - filter row & grid item
-    <code>
-      <div class="filter-options">
+     
+     <div class="filter-options">
            <button class="btn btn-primary current" data-target="*">All</button>
            <button class="btn btn-primary" data-target="A"> &#8594; Study </button>
            <button class="btn btn-primary"data-target="B"> Tour</button>
-       </div>
-    </code>
+      </div>
 </pre>
 
 
 
+      

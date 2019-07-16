@@ -14,7 +14,8 @@
 
 
 <code>
-     - filter-options
+     
+     
      <pre>
           <div class="filter-options">
                 <button class="btn btn-primary current" data-target="*">All</button>

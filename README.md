@@ -12,10 +12,6 @@
     });
     
 </pre>
-
-
-     
-
 <pre>
      <code>
           <div class="filter-options">

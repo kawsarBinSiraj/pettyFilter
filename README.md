@@ -14,10 +14,21 @@
 
 
 <pre>
-     <div class="filter-options">
+     - filter-options
+     - filter row & grid item
+    <code>
+      <div class="filter-options">
            <button class="btn btn-primary current" data-target="*">All</button>
            <button class="btn btn-primary" data-target="A"> &#8594; Study </button>
            <button class="btn btn-primary"data-target="B"> Tour</button>
        </div>
+       
+       <div class="row filter__grid">
+          <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 grid__thumb" data-status="A"> </div>
+          <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 grid__thumb" data-status="B"> </div>
+        </div>
+    </code>
 </pre>
+
+
 

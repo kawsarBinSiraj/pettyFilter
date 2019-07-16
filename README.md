@@ -1,6 +1,4 @@
-# pettyFilter
-## dependency on jquery
-
+# pettyFilter ## dependency on jquery
 
 ## Usage example:
 pettyFilter({

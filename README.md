@@ -7,8 +7,8 @@
      pettyFilter({
         filterBtn       : 'button.btn',  // this is your filter button which is the get targated value
         ActiveClassName : 'current',    // you have to must use by class name
-        filterGridItem  : '.grid__thumb', // gird item which is your filter item
-        filterGridRow   : '.filter__grid' // gird row which is the parrent of  filter item or grid item
+        filterGridItem  : '.filterGridItem', // gird item which is your filter item
+        filterGridRow   : '.filterGridRow' // gird row which is the parrent of  filter item or grid item
     });
     
 </pre>
@@ -22,9 +22,9 @@
           </div>
           
           //filter grid
-          <div class="row filter__grid">
-               <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 grid__thumb" data-status="A"> </div>
-               <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 grid__thumb" data-status="B"> </div>
+          <div class="row filterGridRow">
+               <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 filterGridItem" data-status="A"> </div>
+               <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 filterGridItem" data-status="B"> </div>
             </div>
      </code>
 

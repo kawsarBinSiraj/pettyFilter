@@ -1,6 +1,5 @@
 ## pettyFilter 
-### this library dependent on jquery
-## Usage example:
+### Usage example
 <code>
     <pre>
          pettyFilter({

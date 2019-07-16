@@ -1,7 +1,7 @@
 ## pettyFilter 
 ### this library dependent on jquery
+## Usage example:
 <code>
-    ## Usage example:
     <pre>
          pettyFilter({
             filterBtn       : 'button.btn',  // this is your filter button which is the get targated value

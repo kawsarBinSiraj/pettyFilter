@@ -13,8 +13,6 @@
 </pre>
 
 
-<code>
-     
      
      <pre>
           <div class="filter-options">
@@ -23,7 +21,7 @@
                 <button class="btn btn-primary"data-target="B"> Tour</button>
            </div>
       </pre>
-</code>
+
 
 
 

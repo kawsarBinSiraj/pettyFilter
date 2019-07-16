@@ -2,7 +2,7 @@
 ### Usage example :
 
 <pre>
-     - Method call and object pass
+     // Method call and object pass
   
      pettyFilter({
         filterBtn       : 'button.btn',  // this is your filter button which is the get targated value
